@@ -1,0 +1,3 @@
+0 Asphalt
+1 Paved
+2 Unpaved
